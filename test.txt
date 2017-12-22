@@ -1,1 +1,2 @@
-Hello Git!
+Hello Git! -_-
+It's new line
