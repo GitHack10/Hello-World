@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+HEAD
 Hello Devfile!
 Hello first change!
-321
-=======
 Hello Devfile! my change
->>>>>>> Change file
+Change file
